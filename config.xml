@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <emailsFileAbsolutePath></emailsFileAbsolutePath>
+    <sheetIndex>0</sheetIndex>
+    <excelColumnIndexOfEmailAddress>0</excelColumnIndexOfEmailAddress>
+    <excelColumnIndexOfCheck>-1</excelColumnIndexOfCheck>
+    <excelColumnIndexToWrite>1</excelColumnIndexToWrite>
+    <startRowIndex>-1</startRowIndex>
+    <endRowIndex>-1</endRowIndex>
+    <fromEmailAddress></fromEmailAddress>
+    <charset>text/plain;charset=utf-8</charset>
+    <applicationName>Mailing</applicationName>
+    <userId></userId>
+    <messageSubject></messageSubject>
+    <messageBody></messageBody>
+    <attachmentFileAbsolutePath></attachmentFileAbsolutePath>
+    <credentialsFileAbsolutePath></credentialsFileAbsolutePath>
+</config>
